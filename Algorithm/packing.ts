@@ -1,5 +1,5 @@
 // packing.ts
-import { Box, PlacedBox, Pallet, LayerCandidate } from "./types";
+import { Box, PlacedBox, Pallet, LayerCandidate } from "./type";
 
 /**
  * Skyline node: at position x, current "filled depth" is z.
