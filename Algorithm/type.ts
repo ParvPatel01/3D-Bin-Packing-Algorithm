@@ -23,3 +23,10 @@ export interface LayerCandidate {
     height: number;
     evalScore: number;
 }
+
+export interface Gap {
+    x: number;
+    z: number;
+    width: number;
+    depth: number;
+}
